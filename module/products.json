@@ -1,0 +1,23 @@
+[
+    {
+        "id": "6a6f5ba1-a119-4140-a7f8-bce74a8359f6",
+        "title": "iphone 16 promax",
+        "desc": "titanium",
+        "price": 1100,
+        "quantity": 1
+    },
+    {
+        "id": "685177e4-31e1-499f-8f9c-b06271f13cd7",
+        "title": "samsung s24",
+        "desc": "black",
+        "price": 1300,
+        "quantity": 4
+    },
+    {
+        "id": "d28c293e-12a8-49f5-933e-dd58f344a192",
+        "title": "vivo",
+        "desc": "black",
+        "price": 1000,
+        "quantity": 10
+    }
+]
