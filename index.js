@@ -49,8 +49,6 @@ app.post("/add_product", (req, res, next) => {
       throw BedRequest(400,"Description stringda emas")
     }
 
-
-
     readFileData.push({
       id: v4(),
       ...req.body,
