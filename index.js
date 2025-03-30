@@ -5,6 +5,8 @@ const { readFile, writeFile } = require("./api/metods");
 const errorMiddleware = require("./middleware/error.middleware");
 const { BedRequest } = require("./error/error");
 
+const PORT = process.env.PORT || 3000;
+
 const app = express();
 app.use(cors());
 app.use(express.json());
